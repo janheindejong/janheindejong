@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janheindejong
-- 👀 I’m interested in Python, DevOps tooling, architecture, and Go
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in a lot of things, but right now predominantly in Python, Go, DevOps tooling and IoT applications
+- 🌱 I’m currently learning Kubernetes & Go
 - 📫 You can contact me on janhein.dejong@gmail.com
 
 <!---
