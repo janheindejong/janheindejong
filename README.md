@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janheindejong
 - 👀 I’m interested in a lot of things, but right now predominantly in Python, Go, and CI/CD tooling
-- 🌱 I’m currently learning Kubernetes & Go
+- 🌱 I’m currently learning Kubernetes, Spark & Go
 - 📫 You can contact me on janhein.dejong@gmail.com
 
 <!---
