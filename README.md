@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janheindejong
-- 👀 I’m interested in a lot of things, but right now predominantly in Python, Go, and CI/CD tooling
-- 🌱 I’m currently learning Kubernetes, Spark & Go
+- 👀 I’m interested in combining mathematics, physics and software engineering to make the world a better place. Some of my areas of expertise are Python, Classical Mechanics, Simulation, and Optimization 
+- 🌱 I’m currently learning Go and data-enabled predictive control
 - 📫 You can contact me on janhein.dejong@gmail.com
 
 <!---
