@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janheindejong
-- 👀 I’m interested in combining mathematics, physics and software engineering to make the world a better place. Some of my areas of expertise are Python, Classical Mechanics, Simulation, and Optimization 
+- 👀 I’m interested in combining mathematics, physics and software engineering to make the world a better place. Some of my areas of expertise are Python, Classical Mechanics, Simulation, Optimization, CI/CD and product management. 
 - 🌱 I’m currently learning Go and data-enabled predictive control
 - 📫 You can contact me on janhein.dejong@gmail.com
 
