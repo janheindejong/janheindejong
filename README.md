@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janheindejong
-- 👀 I’m interested in combining mathematics, physics and software engineering to make the world a better place. Some of my areas of expertise are Python, .NET, rigid-body dynamics, simulation, optimization, CI/CD and product management. 
-- 🌱 I’m currently learning ASP.NET Core & MVC
+- 👀 I like building meaningful products, working with teams and learning about all sorts of stuff - be it people, business or technology related. 
+- 🌱 I've worked with many technologies, but currently diving into ASP.NET Core & MVC. 
 - 📫 You can contact me on janhein.dejong@gmail.com
 
 <!---
